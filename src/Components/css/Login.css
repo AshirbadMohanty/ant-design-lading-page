@@ -1,0 +1,61 @@
+
+body{
+ background-color: black;
+}
+.login-main{
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width:auto;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    
+  }
+  .contant{
+  margin: 100px;
+  }
+ 
+  .login-img{
+      width: 500px;
+      height: 100%;
+  }
+  .login-img img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .login-sub{ 
+      padding: 50px;
+      border-left: 3px double rgb(15, 219, 255);
+     
+  }
+ 
+
+
+ 
+
+     .icon{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+     }
+
+     .icon div{
+         margin: 5px;
+         cursor: pointer;
+     }
+
+
+   
+ 
+
+
+
+  
+  
+  

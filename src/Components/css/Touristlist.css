@@ -1,0 +1,7 @@
+.card-t{
+  display: flex;
+   
+    justify-content: center;
+    margin: 50px;
+    text-align: center;
+}

@@ -1,0 +1,117 @@
+
+body{
+    background-color: black;
+}
+
+.one{
+    background-image: url("../image/t7.jpg");
+    background-color: #cccccc;
+   height: 20px;
+   width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ 
+}
+
+.carousle{
+ padding-top: 50px;
+}
+
+.two{
+    background-image: url("../image/t2.jpg");
+    background-color: #cccccc;
+   height: 20px;
+   width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.three{
+    background-image: url("../image/t4.jpg");
+    background-color: #cccccc;
+    height: 20px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+
+.site-card-wrapper{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.percentage{
+    display: flex;
+    justify-content: space-around;
+}
+
+.percentage title{
+    text-align: center;
+    color: aqua;
+}
+.percentage-card{
+    background-color: white;
+    border:3px solid rgb(15, 219, 255);
+    border-radius: 2px;
+}
+.percentage-card2{
+    text-align: center;
+    border:3px solid rgb(15, 219, 255);
+    border-radius: 2px;
+}
+
+.comment{
+   
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    color: black;
+     margin-bottom: 20px;
+    font-weight: 500;
+}
+.comment-main h1{
+
+    padding: 5px;
+    margin: 10px;
+}
+.comment-main{
+    margin: 10px;
+    font-size: medium;
+    font-weight: 200;
+    margin: 5px;
+}
+
+.hadding1{
+ display: flex;   
+ justify-content: center;
+}
+.hadding1 h2{
+    border-bottom: 2.5px double rgb(15, 219, 255);
+    border-top: 2.5px double rgb(15, 219, 255);
+}
+
+.hadding2 {
+    display: flex;   
+ justify-content: center;
+ border-bottom: 2.5px double rgb(15, 219, 255);
+ border-top: 2.5px double rgb(15, 219, 255);
+ margin: 30px;
+}
+
+.hadding3{
+    border-bottom: 2.5px double rgb(15, 219, 255);
+    border-top: 2.5px double rgb(15, 219, 255);
+    margin: 30px;
+    display: flex;
+  justify-content: center;
+}
+
+
